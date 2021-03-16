@@ -13,7 +13,7 @@ https://ok.xxx/get_file/3/69c7eccc1d4228ce08376fac4bce17f4/33000/33921/33921.mp4
 
 
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/XTixbcM.png",[$]EPT SPORTS HD
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/9BahgIx.png",[$]EPT SPORTS 1HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_1/ert_sports_1.m3u8
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/IlndNgA.png",[$]EPT SPORTS 2HD
@@ -25,33 +25,33 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/pweeJEo.png",[$]EPT SPORTS 5HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/Q3zxloy.png",[$]OTE SPORT 1HD
-http://185.132.177.110:8082/COSMOTESport1HD/mpegts?token=test|User-Agent=stream
+http://185.132.177.110:8080/COSMOTESport1HD/mpegts?token=test|User-Agent=stream
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/RtUH5hQ.png",[$]OTE SPORT 2HD
-http://185.132.177.110:8082/COSMOTESport2HD/mpegts?token=test|User-Agent=stream
+http://185.132.177.110:8080/COSMOTESport2HD/mpegts?token=test|User-Agent=stream
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/B5mdD6U.png",[$]OTE SPORT 3HD
-http://185.132.177.110:8082/COSMOTESport3HD/mpegts?token=test|User-Agent=stream
+http://185.132.177.110:8080/COSMOTESport3HD/mpegts?token=test|User-Agent=stream
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/qH5t9T3.png",[$]OTE SPORT 4HD
-http://185.132.177.110:8082/COSMOTESport4HD/mpegts?token=test|User-Agent=stream
+http://185.132.177.110:8080/COSMOTESport4HD/mpegts?token=test|User-Agent=stream
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/iMKrRM5.png",[$]OTE SPORT 5HD
-http://185.132.177.110:8082/COSMOTESport5HD/mpegts?token=test|User-Agent=stream
+http://185.132.177.110:8080/COSMOTESport5HD/mpegts?token=test|User-Agent=stream
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/NQifZ4U.png",[$]OTE SPORT 6HD
-http://185.132.177.110:8082/COSMOTESport6HD/mpegts?token=test|User-Agent=stream
+http://185.132.177.110:8080/COSMOTESport6HD/mpegts?token=test|User-Agent=stream
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/PCrIMf6.png",[$]OTE SPORT 7HD
-http://185.132.177.110:8082/COSMOTESport7HD/mpegts?token=test|User-Agent=stream
+http://185.132.177.110:8080/COSMOTESport7HD/mpegts?token=test|User-Agent=stream
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/XER34Ls.png",[$]OTE SPORT 8HD
-http://185.132.177.110:8082/COSMOTESport8HD/mpegts?token=test|User-Agent=stream
+http://185.132.177.110:8080/COSMOTESport8HD/mpegts?token=test|User-Agent=stream
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/WOPjGH0.png",[$]OTE SPORT 9HD
-http://185.132.177.110:8082/COSMOTESport9HD/mpegts?token=test|User-Agent=stream
+http://185.132.177.110:8080/COSMOTESport9HD/mpegts?token=test|User-Agent=stream
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/j6eMc9V.png",[$]NOVASPORTS 1HD
-http://185.132.177.110:8082/NOVASports1/mpegts?token=test|User-Agent=stream
+http://185.132.177.110:8080/NOVASports1/mpegts?token=test|User-Agent=stream
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/fNzMchQ.png",[$]NOVASPORTS 2HD
-http://185.132.177.110:8082/NOVASports2/mpegts?token=test|User-Agent=stream
+http://185.132.177.110:8080/NOVASports2/mpegts?token=test|User-Agent=stream
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/zshffxY.png",[$]NOVASPORTS 3HD
-http://185.132.177.110:8082/NOVASports3/mpegts?token=test|User-Agent=stream
+http://185.132.177.110:8080/NOVASports3/mpegts?token=test|User-Agent=stream
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/oW2CNey.png",[$]NOVASPORTS 4HD
-http://185.132.177.110:8082/NOVASports4/mpegts?token=test|User-Agent=stream
+http://185.132.177.110:8080/NOVASports4/mpegts?token=test|User-Agent=stream
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/AR1kOQC.png",[$]NOVASPORTS 5HD
-http://185.132.177.110:8082/NOVASports5/mpegts?token=test|User-Agent=stream
+http://185.132.177.110:8080/NOVASports5/mpegts?token=test|User-Agent=stream
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149496702568562690/iRbUmH0U_400x400.jpg" group-title="PARAGUAY", 13- EVENTOS FUTBOL PYO 1 
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/3dae5c63b5f04813b64fae5bd14eacae/index.m3u8
