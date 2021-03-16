@@ -11,6 +11,12 @@ https://ok.xxx/get_file/4/f5451129aef260d8c1f94d94894e9825/41000/41992/41992_720
 #EXTINF:0,BELLA DULCE, HARLOWE BLUE & SAVANNAH SIXX
 https://ok.xxx/get_file/3/69c7eccc1d4228ce08376fac4bce17f4/33000/33921/33921.mp4
 
+#EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.ibb.co/9bK2wR0/ch1.png",[$]CHAMPIONS 1HD
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b|User-Agent=stream
+#EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.ibb.co/pyqZQ4c/ch2.png",[$]CHAMPIONS 2HD
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b|User-Agent=stream
+#EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.ibb.co/Wtvc9JF/ch3.png",[$]CHAMPIONS 3HD
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b|User-Agent=stream
 
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/XTixbcM.png",[$]EPT SPORTS HD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8|User-Agent=stream
