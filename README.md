@@ -1,3 +1,10 @@
+#EXTINF:0,SS1
+http://flix.flixal.net:25461/live/2/2/565.ts|User-Agent=flix - al net ;)
+#EXTINF:0,SS2
+http://flix.flixal.net:25461/live/2/2/566.ts|User-Agent=flix - al net ;)
+#EXTINF:0,SS3
+http://flix.flixal.net:25461/live/2/2/567.ts|User-Agent=flix - al net ;)
+
 #EXTINF:0,BAILEY BASE
 https://ok.xxx/get_file/5/cd68dd080600def08f47f79984ee28e1/44000/44172/44172.mp4
 #EXTINF:0,ASHLEY ANDERSON
