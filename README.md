@@ -1,22 +1,94 @@
-#EXTINF:0,SS1
-http://flix.flixal.net:25461/live/2/2/565.ts|User-Agent=flix - al net ;)
-#EXTINF:0,SS2
-http://flix.flixal.net:25461/live/2/2/566.ts|User-Agent=flix - al net ;)
-#EXTINF:0,SS3
-http://flix.flixal.net:25461/live/2/2/567.ts|User-Agent=flix - al net ;)
 
-#EXTINF:0,BAILEY BASE
-https://ok.xxx/get_file/5/cd68dd080600def08f47f79984ee28e1/44000/44172/44172.mp4
-#EXTINF:0,ASHLEY ANDERSON
-https://ok.xxx/get_file/4/efd583e9a6d7b80f4c8d4233a047588b/43000/43769/43769.mp4
-#EXTINF:0,KINSLEY KANE & SKYLAR VOX
-https://ok.xxx/get_file/4/df898731799733733e611e20756c278a/41000/41988/41988.mp4
-#EXTINF:0,LADY BUG & ANIE DARLING
-https://ok.xxx/get_file/3/6be1793c10cbe95851583618c9fcbd65/41000/41534/41534_720p.mp4
-#EXTINF:0,ATHENA FARIS
-https://ok.xxx/get_file/4/f5451129aef260d8c1f94d94894e9825/41000/41992/41992_720p.mp4
-#EXTINF:0,BELLA DULCE, HARLOWE BLUE & SAVANNAH SIXX
-https://ok.xxx/get_file/3/69c7eccc1d4228ce08376fac4bce17f4/33000/33921/33921.mp4
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Akrebin İntikamı
+https://srv100.filmmodu.xyz/tt9580138/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]paint
+https://srv17.filmmodu.xyz/tt7052494/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]pyckn
+https://srv93.filmmodu.xyz/tt6823368/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]marsli
+https://srv90.filmmodu.xyz/tt3659388/1080p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]terminator
+https://srv88.filmmodu.xyz/tt6450804/1080p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]the hard
+https://srv49.filmmodu.xyz/tt9815714/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]perfection
+https://srv37.filmmodu.xyz/tt7772580/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]bala
+https://srv28.filmmodu.xyz/tt5941692/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]captain marvel
+https://srv53.filmmodu.xyz/tt4154664/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]shaft
+https://srv31.filmmodu.xyz/tt4463894/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Geceyarısı Avı
+https://srv51.filmmodu.xyz/tt0095631/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]öğrenci ofisi
+https://srv8.filmmodu.xyz/tt8783532/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Sultan
+https://srv69.filmmodu.xyz/tt4832640/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Samuray marason
+https://srv49.filmmodu.xyz/tt9311062/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Scary Stories to Tell in the Dark
+https://srv97.filmmodu.xyz/tt3387520/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]gece nobeti
+https://srv33.filmmodu.xyz/tt0403358/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]cennette 7 dakika
+https://srv59.filmmodu.xyz/tt4269118/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]derin sular
+https://srv31.filmmodu.xyz/tt5774060/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Yırtıcı Kuşlar ve Muhteşem Harley Quinn
+https://srv57.filmmodu.xyz/tt7713068/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Bloodshot
+https://srv28.filmmodu.xyz/tt1634106/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]El Camino A Breaking Bad
+https://srv60.filmmodu.xyz/tt9243946/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Joker
+https://srv24.filmmodu.xyz/tt7286456/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Kaçış Planı 3
+https://srv17.filmmodu.xyz/tt6772804/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Isi & Ossi
+https://srv76.filmmodu.xyz/tt9806322/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Boarding Gate
+https://srv99.filmmodu.xyz/tt0493402/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Anna
+https://srv18.filmmodu.xyz/tt7456310/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]HAYVANLAR SEHRİ
+https://srv77.filmmodu.xyz/tt2948356/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Winx Club 
+https://srv19.filmmodu.xyz/tt1618450/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Kahraman İkili
+https://srv444.filmmodu.xyz/tt1621039/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]CESUR
+https://srv54.filmmodu.xyz/tt1217209/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Angry Birds 2
+https://srv63.filmmodu.xyz/tt6095472/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Unutulmuş Arkadaşlıklar
+https://srv9.filmmodu.xyz/tt7869818/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Barbie güçlü prenses
+https://srv88.filmmodu.xyz/tt4215332/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Extraction
+https://srv52.filmmodu.xyz/tt8936646/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]GRETA
+https://srv74.filmmodu.xyz/tt2639336/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]ölüm yolu
+https://srv93.filmmodu.xyz/tt0355954/480p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]çılgın ikili 2
+https://srv59.filmmodu.xyz/tt0172156/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]çifte tehlike
+https://srv64.filmmodu.xyz/tt0150377/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Asla yanlız uçmayacaksın (animasyon)
+https://srv98.filmmodu.xyz/tt2766104/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]ajanlar iş başında (animasyon)
+https://srv69.filmmodu.xyz/tt5814534/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Anastasia (animasyon)
+https://srv40.filmmodu.xyz/tt0118617/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Karlar Ülkesi 2 (animasyon)
+https://srv9.filmmodu.xyz/tt4520988/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Addams Ailesi (animasyon)
+https://srv20.filmmodu.xyz/tt1620981/480p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]sihirli halı (animasyon)
+https://srv98.filmmodu.xyz/tt5848640/720p.tr.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]yeti efsanesi (animasyon)
+https://srv17.filmmodu.xyz/tt6324278/720p.tr.m3u8|User-Agent=stream
 
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.ibb.co/9bK2wR0/ch1.png",[$]CHAMPIONS 1HD
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b|User-Agent=stream
