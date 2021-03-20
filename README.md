@@ -1,4 +1,13 @@
 
+https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_77WNAmFY/wixmp-3dbd5cb16bb136182e099f78_77WNAmFY_res720p/index.m3u8
+
+
+https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_noNJyGKf/wixmp-3dbd5cb16bb136182e099f78_noNJyGKf_res720p/index.m3u8
+
+https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_6DAvDPL3/wixmp-3dbd5cb16bb136182e099f78_6DAvDPL3_res720p/index.m3u8
+
+
+
 #EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]Akrebin İntikamı
 https://srv100.filmmodu.xyz/tt9580138/720p.tr.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/06ZkFjn.jpg",[$]paint
