@@ -1,4 +1,10 @@
 
+http://38.18.237.42:2095/andromeda/FOXSP2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8?jc
+
+http://38.18.238.42:2095/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+
+
 https://prod-live-europe-west1.wixmp.com/live_streams/wixmp-3dbd5cb16bb136182e099f78_77WNAmFY/wixmp-3dbd5cb16bb136182e099f78_77WNAmFY_res720p/index.m3u8
 
 
