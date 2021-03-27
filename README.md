@@ -1,4 +1,83 @@
 
+espn
+http://23.237.78.54/live-1000/244/playlist.m3u8?jc
+espn2
+http://23.237.78.54/live-1000/263/playlist.m3u8?jc
+espn3
+http://23.237.78.54/live-1000/267/playlist.m3u8?jc
+
+
+https://lon-haproxy.angelthump.com/hls/spf1general/index.m3u8 by?stream=thejoelc
+
+
+http://77.247.109.94/hls/T1.m3u8?jc
+http://77.247.109.94/hls/T2.m3u8?jc
+http://77.247.109.94/hls/T3.m3u8?jc
+
+
+bein premium 1
+http://zana@1.amaniyouhra.xyz/live/88824257/index.m3u8?jc
+
+bein premium2
+http://zana@1.amaniyouhra.xyz/live/79481245/index.m3u8?jc
+
+bein premium 3
+http://zana@1.amaniyouhra.xyz/live/17988558/index.m3u8?jc
+
+
+bein4
+http://zana@3.yacinelg.xyz/live/0103088447/index.m3u8?jc
+
+bein sports 2 english
+https://streamcdn.getloconow.com:443/0DOKGVPI3Z_2505f792-7315-4180-aac9-d40c82ff4c48/0DOKGVPI3Z_2505f792-7315-4180-aac9-d40c82ff4c48_hi/manifest.m3u8?jc
+
+
+
+sky p.league
+https://streamcdn.getloconow.com:443/VWU6A9YZFU_c49b5043-b3d3-4fa4-b00b-d028a64d2ab3/VWU6A9YZFU_c49b5043-b3d3-4fa4-b00b-d028a64d2ab3_hi/manifest.m3u8?jc
+
+http://46.174.189.51/matchpremer/index.m3u8
+
+
+
+https://lon-haproxy.angelthump.com/hls/spf1general/index.m3u8?stream=thejoelc
+
+http://208.88.246.11:2095/andromeda/ESPN+/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?per&Manujaz&Mmt
+
+
+https://b.pscdn.live/hls/bein-sports-haber.m3u8
+https://b.pscdn.live/hls/bein-sports-4.m3u8
+1-4
+https://b.pscdn.live/hls/bein-sports-max-1.m3u8?mvk
+https://b.pscdn.live/hls/bein-sports-max-2.m3u8?mvk
+
+
+sky sports p.league
+https://streamcdn.getloconow.com/6MGMR0NFKG_21479717-08ad-4b8c-a0b7-4a3eaca0ce88/6MGMR0NFKG_21479717-08ad-4b8c-a0b7-4a3eaca0ce88_hi/manifest.m3u8?jc
+
+http://38.18.237.42:2095/andromeda/FOXSP2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8?jc
+
+
+tivibu spor
+http://live.netstreaming.cf/hls/209.m3u8
+tivibu spor2
+http://live.netstreaming.cf/hls/211.m3u8
+tivibu spor3
+http://live.netstreaming.cf/hls/213.m3u8
+eurosport1
+http://live.netstreaming.cf/hls/215.m3u8
+eurosport2
+http://live.netstreaming.cf/hls/216.m3u8
+
+
+fox sports
+http://38.18.237.42:2095/evento3/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+
+
+
+
+
 http://38.18.237.42:2095/andromeda/FOXSP2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8?jc
 
 http://38.18.238.42:2095/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
