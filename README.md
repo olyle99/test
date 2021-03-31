@@ -689,31 +689,21 @@ http://srb.00387.info/c8/index.m3u8?token=test
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png",[$]SS 1HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2ac9f2cea112245.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png",[$]SS 1
-http://62.210.209.100:86/live/play/mosulodhkot/235.ts|User-Agent=mosulodh
+http://147.78.163.247:8000/play/a02f
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png",[$]SS 2HD
 http://artiiptv.dyndns.tv:8090/SuperSport2/mpegts?token=agon
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png",[$]SS 2
-http://62.210.209.100:86/live/play/mosulodhkot/236.ts|User-Agent=mosulodh
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png",[$]SS 3HD
 http://artiiptv.dyndns.tv:8090/SuperSport2/mpegts?token=agon
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png",[$]SS 3
-http://62.210.209.100:86/live/play/mosulodhkot/237.ts|User-Agent=mosulodh
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png",[$]SS 4HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/29812544341411c.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png",[$]SS 4
-http://62.210.209.100:86/live/play/mosulodhkot/238.ts|User-Agent=mosulodh
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png",[$]SS 5HD
-http://62.210.209.100:86/live/play/mosulodhkot/239.ts|User-Agent=mosulodh
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%20News%20HD.png",[$]T SPORT NEWS HD
 http://84.22.33.254/unicast.tringsportnews/mpegts?token=tv
-#EXTINF:-1 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.ibb.co/r2LJx8x/SPORT-1.png",[$]T-SPORT 1HD
-http://62.210.209.100:86/live/play/mosulodhkot/240.ts|User-Agent=mosulodh
-#EXTINF:-1 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.ibb.co/z8Sw8gH/SPORT-2.png",[$]T-SPORT 2HD
-http://62.210.209.100:86/live/play/mosulodhkot/241.ts|User-Agent=mosulodh
-#EXTINF:-1 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.ibb.co/gdqNb22/SPORT-3.png",[$]T-SPORT 3HD
-http://62.210.209.100:86/live/play/mosulodhkot/242.ts|User-Agent=mosulodh
-#EXTINF:-1 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/SbGZk5B.png",[$]T-SPORT 4HD
-http://62.210.209.100:86/live/play/mosulodhkot/307.ts|User-Agent=mosulodh
+#EXTINF:0 group-title="[007]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png",[$]TRING SPORT 1HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Albania/9cfb7d938992a81.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[007]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png",[$]TRING SPORT 2HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Albania/deffbec9dcd4fcd.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[007]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png",[$]TRING SPORT 3HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Albania/8a25ee845310926.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/EFm2FrU.png",[$]K-SPORT 1HD 
 http://46.19.226.132:4000/play/a03w
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/WqQfIZC.png",[$]K-SPORT 2HD
@@ -724,14 +714,6 @@ http://46.19.226.132:4000/play/a03y
 http://46.19.226.132:4000/play/a03z
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/QbEJ6WD.png",[$]K-SPORT 5HD
 http://46.19.226.132:4000/play/a008
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%201.png",[$]K-SPORT 1HD
-http://62.210.209.100:86/live/play/mosulodhkot/269.ts|User-Agent=mosulodh
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%202.png",[$]K-SPORT 2HD
-http://62.210.209.100:86/live/play/mosulodhkot/270.ts|User-Agent=mosulodh
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%203.png",[$]K-SPORT 3HD
-http://62.210.209.100:86/live/play/mosulodhkot/271.ts|User-Agent=mosulodh
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png",[$]K-SPORT 4HD
-http://62.210.209.100:86/live/play/mosulodhkot/272.ts|User-Agent=mosulodh
 #EXTINF:-1 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/LPRVN9u.png",[$]FIGHT BOX HD
 http://46.19.226.132:4000/play/a08g
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/LPRVN9u.png",[$]FIGHT BOX 
