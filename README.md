@@ -9868,5 +9868,3 @@ https://srv20.filmmodu.xyz/tt1620981/480p.tr.m3u8
 https://srv98.filmmodu.xyz/tt5848640/720p.tr.m3u8
 #EXTINF:-1 group-title="[TR]FILMA(VOD)" tvg-logo="https://i.imgur.com/pmCITrx.png",[$]yeti efsanesi (animasyon)
 https://srv17.filmmodu.xyz/tt6324278/720p.tr.m3u8
-
-
